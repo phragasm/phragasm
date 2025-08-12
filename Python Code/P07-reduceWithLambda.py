@@ -1,6 +1,6 @@
 """
 Program: This program uses lambda to generate the sum, and multiples within a range.
-Author: Joseph Nezol
+Author: Joseph
 Date Written: 07/10/2024
 Last Edited: 07/10/2024
 
