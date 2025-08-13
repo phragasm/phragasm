@@ -1,6 +1,6 @@
 """
 Program: This program calculates fibonacci sequence
-Author: Joseph Nezol
+Author: Joseph
 Date Written: 07/08/2024
 Last Edited: 07/08/2024
 
