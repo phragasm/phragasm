@@ -1,6 +1,6 @@
 """
 Program: P03-PiApproximation
-Author: Joseph Nezol
+Author: Joseph 
 Date written: 06/10/2024
 Last edited: 06/10/2024
 
