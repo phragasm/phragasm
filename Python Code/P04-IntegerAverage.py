@@ -1,6 +1,6 @@
 """
 Program: P-04 Integer Average
-Author: Joseph Nezol
+Author: Joseph 
 Date Written: 06/24/24
 Last Edited: 06/25/24
 
