@@ -1,6 +1,6 @@
 """
 Program: This program is a semi useful calculator
-Author: Joseph Nezol
+Author: Joseph 
 Date Written: 07/01/2024
 Last edited: 07/01/2024
 
